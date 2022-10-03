@@ -8,7 +8,7 @@
 
 <h1>Objetivo do projeto:</h1>
 
->Estudar acerca de programação no nível iniciante
+>Estudar acerca de programação no nível iniciante resolvendo os desafios propostos no 7DaysOfCode do Alura Cursos.
 
 <h1>📁 Acesso ao projeto</h1>
 
